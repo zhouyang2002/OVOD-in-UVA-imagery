@@ -1,5 +1,3 @@
-# OVOD-in-UVA-imagery
-This repository tracks the latest research, methods, and benchmarks in Open-Vocabulary Object Detection (OVOD) applied to the Unmanned Aerial Vehicle (UAV) domain.
 # 🛰️ Open-Vocabulary Object Detection in the UAV Domain
 
 Welcome to our repository on **Open-Vocabulary Object Detection (OVOD)** for **Unmanned Aerial Vehicle (UAV)** applications. This is a continuously updated resource that tracks cutting-edge research, benchmarks, and practical insights at the intersection of UAV perception and open-vocabulary detection.
