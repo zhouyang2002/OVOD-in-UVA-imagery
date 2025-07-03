@@ -30,15 +30,17 @@ We will continuously update this repository with:
 ├── datasets/         # Links and descriptions of UAV datasets for OVOD
 ├── methods/          # Summaries and insights of key OVOD methods
 └── resources/        # Tools, visualizations, and helpful links
+```
 
-# Awesome Papers
+## 📄 Awesome Papers
 
-## Acticle
+### 🔬 Articles
 
 | Title | Venue | Date | Code |
 |-------|-------|------|------|
-| [Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning](https://arxiv.org/pdf/2311.11646) | ECCV | 2024-07-01 | [Github](https://github.com/VisionXLab/CastDet?tab=readme-ov-file#eccv-2024-toward-open-vocabulary-aerial-object-detection-with-clip-activated-student-teacher-learning) |
+| [Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning](https://arxiv.org/pdf/2311.11646) | ECCV | 2024-07-01 | [GitHub](https://github.com/VisionXLab/CastDet?tab=readme-ov-file#eccv-2024-toward-open-vocabulary-aerial-object-detection-with-clip-activated-student-teacher-learning) |
 | [Paper Title 2](#) | Conference | 2025-02-01 | - |
-| [Paper Title 3](#) | Google | 2025-03-15 | [Github](#) |
+| [Paper Title 3](#) | Google | 2025-03-15 | [GitHub](#) |
 | [Paper Title 4](#) | arXiv | 2025-04-05 | - | 
-| [Paper Title 5](#) | arXiv | 2025-05-20 | [Github](#) |
+| [Paper Title 5](#) | arXiv | 2025-05-20 | [GitHub](#) |
+
