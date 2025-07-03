@@ -1,4 +1,4 @@
-# 🛰️ Open-Vocabulary Object Detection in the UAV Domain
+# 🛰️ Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives
 
 Welcome to our repository on **Open-Vocabulary Object Detection (OVOD)** for **Unmanned Aerial Vehicle (UAV)** applications. This is a continuously updated resource that tracks cutting-edge research, benchmarks, and practical insights at the intersection of UAV perception and open-vocabulary detection.
 
@@ -30,3 +30,15 @@ We will continuously update this repository with:
 ├── datasets/         # Links and descriptions of UAV datasets for OVOD
 ├── methods/          # Summaries and insights of key OVOD methods
 └── resources/        # Tools, visualizations, and helpful links
+
+# Awesome Papers
+
+## Acticle
+
+| Title | Venue | Date | Code |
+|-------|-------|------|------|
+| [Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning](https://arxiv.org/pdf/2311.11646) | ECCV | 2024-07-01 | [Github](https://github.com/VisionXLab/CastDet?tab=readme-ov-file#eccv-2024-toward-open-vocabulary-aerial-object-detection-with-clip-activated-student-teacher-learning) |
+| [Paper Title 2](#) | Conference | 2025-02-01 | - |
+| [Paper Title 3](#) | Google | 2025-03-15 | [Github](#) |
+| [Paper Title 4](#) | arXiv | 2025-04-05 | - | 
+| [Paper Title 5](#) | arXiv | 2025-05-20 | [Github](#) |
